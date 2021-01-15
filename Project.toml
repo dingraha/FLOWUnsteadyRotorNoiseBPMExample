@@ -14,3 +14,6 @@ FLOWUnsteady = "b491798d-ac6e-455f-a27c-49c10bb0a666"
 FLOWVLM = "1a3ff0be-0410-4572-aa62-b496bdd1f33b"
 GeometricTools = "83792f5e-c6a1-11e8-2e0a-93511f02ae5f"
 Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+
+[compat]
+CCBlade = "0.1.0"
